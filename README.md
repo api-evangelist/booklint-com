@@ -64,5 +64,139 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-booklint-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://booklint.com/
+booklint provides deterministic spending guardrails for agents, allowing users to set limits for actions such as hotel bookings, purchases, subscriptions, invoices, quotes, budgets and data quality. The service offers a verification desk with an HTTPS API and MCP interface, operating as a sole trader shop in England and Wales. It aims to prevent overspending and enforce rule‑based constraints without storing personal data, delivering transparent, rule‑driven financial controls for automated workflows.
+
+**Areas:** Finance · Spending · Automation · API · Guardrails · SaaS
+
+## booklint-com on APIs.io
+
+Everything profiled for booklint-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/booklint-com/](https://apis.io/providers/booklint-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [booklint-com Booklint API](https://apis.io/apis/booklint-com/booklint-com-booklint-api/) — The Booklint API from booklint-com — 1 operation(s) for booklint.
+- [booklint-com Check Accounts Tieout API](https://apis.io/apis/booklint-com/booklint-com-check-accounts-tieout-api/) — The Check Accounts Tieout API from booklint-com — 1 operation(s) for check accounts tieout.
+- [booklint-com Check API](https://apis.io/apis/booklint-com/booklint-com-check-api/) — The Check API from booklint-com — 1 operation(s) for check.
+- [booklint-com Check Budget Variance API](https://apis.io/apis/booklint-com/booklint-com-check-budget-variance-api/) — The Check Budget Variance API from booklint-com — 1 operation(s) for check budget variance.
+- [booklint-com Check Invoice API](https://apis.io/apis/booklint-com/booklint-com-check-invoice-api/) — The Check Invoice API from booklint-com — 1 operation(s) for check invoice.
+- [booklint-com Check Quote Math API](https://apis.io/apis/booklint-com/booklint-com-check-quote-math-api/) — The Check Quote Math API from booklint-com — 1 operation(s) for check quote math.
+- [booklint-com Health API](https://apis.io/apis/booklint-com/booklint-com-health-api/) — The Health API from booklint-com — 1 operation(s) for health.
+- [booklint-com Keys API](https://apis.io/apis/booklint-com/booklint-com-keys-api/) — The Keys API from booklint-com — 2 operation(s) for keys.
+- [booklint-com Llms.txt API](https://apis.io/apis/booklint-com/booklint-com-llms-txt-api/) — The Llms.txt API from booklint-com — 1 operation(s) for llms.txt.
+- [booklint-com MCP API](https://apis.io/apis/booklint-com/booklint-com-mcp-api/) — The Mcp API from booklint-com — 1 operation(s) for mcp.
+- [booklint-com Openapi.json API](https://apis.io/apis/booklint-com/booklint-com-openapi-json-api/) — The Openapi.json API from booklint-com — 1 operation(s) for openapi.json.
+- [booklint-com Plans API](https://apis.io/apis/booklint-com/booklint-com-plans-api/) — The Plans API from booklint-com — 1 operation(s) for plans.
+- [booklint-com Privacy API](https://apis.io/apis/booklint-com/booklint-com-privacy-api/) — The Privacy API from booklint-com — 1 operation(s) for privacy.
+- [booklint-com Sample API](https://apis.io/apis/booklint-com/booklint-com-sample-api/) — The Sample API from booklint-com — 1 operation(s) for sample.
+- [booklint-com Terms API](https://apis.io/apis/booklint-com/booklint-com-terms-api/) — The Terms API from booklint-com — 1 operation(s) for terms.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Booklint Com Agentic Access](https://apis.io/agentic-access/booklint-com/booklint-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [OfferCheckRequest](https://apis.io/schemas/booklint-com/booklint-com-offer-check-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Booklint Com Context](https://apis.io/jsonld/booklint-com/booklint-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [booklint-com API Rules](https://apis.io/rules/booklint-com/booklint-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Booklint Com Authentication](https://apis.io/security/booklint-com/booklint-com-authentication/)
+- [Booklint Com Domain Security](https://apis.io/security/booklint-com/booklint-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Booklint Com Plans Pricing](https://apis.io/plans/booklint-com/booklint-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Booklint Com Rate Limits](https://apis.io/rate-limits/booklint-com/booklint-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://booklint.com/)
+- [Pricing](https://booklint.com/v1/plans)
+- [Terms of service](https://booklint.com/terms)
+- [Privacy policy](https://booklint.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 43.7** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 47.9 |
+| Contract governance | 70.9 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 18.3 |
+| Access clarity | 60.0 |
+
+**Agent readiness 33.0** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/booklint-com/](https://apis.io/providers/booklint-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for booklint-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/booklint-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
